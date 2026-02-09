@@ -1,1 +1,1 @@
-This is Jenkins Git integration task 
+This file is modified for Poll SCM task 
